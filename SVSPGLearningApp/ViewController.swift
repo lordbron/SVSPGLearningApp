@@ -6,6 +6,8 @@
 //  Copyright © 2016 Silicon Valley Swift Programming Group. All rights reserved.
 // New comment
 
+//Second new comment
+
 import UIKit
 
 class ViewController: UIViewController {
